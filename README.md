@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I’m Santosh<br><br>💻 I’m currently working on: Web development projects and improving my coding skills  <br>🤝 I’m looking to collaborate on: Beginner-friendly web and software projects  <br>🆘 I’m looking for help with: Data Structures and Algorithms (DSA) and problem solving  <br>📚 I’m currently learning: MERN stack, Data Analytics, and Cloud (Azure)  <br>💬 Ask me about: Basic Python, web development, and coding journey  <br>⚡ Fun fact: I enjoy learning new tech and solving coding challenges every day
+👋Hello, my name is Santosh M Madivalar. I am currently pursuing my Bachelor of Engineering in Information Science and Engineering.
+
+I have a strong interest in technology and software development, especially in areas like web development and data analytics. I am actively working on improving my skills by learning programming and solving problems on platforms like LeetCode.
+
+I am a quick learner and always eager to explore new technologies. I enjoy taking challenges that help me grow both technically and personally.
+
+My goal is to build a successful career in the IT industry and contribute to innovative projects while continuously upgrading my skills.
+
+Thank you.
 
 
 ## 🌐 Socials:
