@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋Hello,I am Santosh M Madivalar.Wellcome to my profile,🎓I am currently pursuing my Bachelor of Engineering in Information Science and Engineering.
 💻I have a strong interest in technology and software development, especially in areas like web development and data analytics. I am actively working on improving my skills by learning programming and solving problems on platforms like LeetCode.
-      I am a quick learner and always eager to explore new technologies. I enjoy taking challenges that help me grow both technically and personally.My goal is to build a successful career in the IT industry and contribute to innovative projects while continuously upgrading my skills.
+
+I am a quick learner and always eager to explore new technologies. I enjoy taking challenges that help me grow both technically and personally.My goal is to build a successful carrier in the IT industry and contribute to innovative projects while continuously upgrading my skills.
  
  Thank you.
 
