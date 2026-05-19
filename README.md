@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋Hello,I am Santosh M Madivalar.Wellcome to my profile,🎓I am currently pursuing my Bachelor of Engineering in Information Science and Engineering.
+
 💻I have a strong interest in technology and software development, especially in areas like web development and data analytics. I am actively working on improving my skills by learning programming and solving problems on platforms like LeetCode and Codecheaf. 
 
 
