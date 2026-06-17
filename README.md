@@ -1,41 +1,26 @@
-# Hi there 👋, I'm Santosh M Madivalar
+# Hi 👋, I'm Santosh M Madivalar
 
-<div align="center">
+### 🎓 Information Science & Engineering Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
 
-### 🎓 Information Science & Engineering Student
-
-### 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+in+Progress;Problem+Solver+%7C+Tech+Learner;Always+Learning+Something+New" alt="Typing SVG" />
-
-</div>
-
----
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
-Hello! I'm **Santosh M Madivalar**, currently pursuing a **Bachelor of Engineering in Information Science and Engineering**.
+I'm **Santosh M Madivalar**, currently pursuing a **Bachelor of Engineering in Information Science and Engineering**.
 
-I am passionate about technology, software development, and problem-solving. My primary interests include **Web Development**, **Data Analytics**, **Cloud Computing**, and **Software Engineering**.
+I am passionate about **Software Development, Web Technologies, Data Analytics, and Cloud Computing**. I enjoy building projects, solving coding challenges, and continuously exploring new technologies that help me grow as a developer.
 
-I enjoy building projects, exploring new technologies, and improving my coding skills through continuous learning and practice.
-
-### 🌱 Currently Learning
-
-* Full Stack Web Development
-* Data Structures & Algorithms
-* Cloud Technologies
-* Modern JavaScript & React
-
-### 🎯 Career Goal
-
-To build innovative software solutions, contribute to impactful projects, and establish a successful career in the IT industry.
+* 🌱 Currently learning **Full Stack Development**
+* 💻 Practicing **Data Structures & Algorithms**
+* 🔥 Solving problems on LeetCode and CodeChef
+* ☁️ Exploring Cloud Technologies
+* 🎯 Goal: Build innovative software solutions and establish a successful career in the IT industry
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
@@ -43,15 +28,11 @@ To build innovative software solutions, contribute to impactful projects, and es
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
 
-### Frontend
+### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### Backend & Frameworks
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 
 ### Databases
 
@@ -70,47 +51,35 @@ To build innovative software solutions, contribute to impactful projects, and es
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](YOUR_YOUTUBE_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=santoshmm42-collab\&show_icons=true\&theme=tokyonight)
+![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshmm42-collab\&show_icons=true\&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=santoshmm42-collab\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=santoshmm42-collab\&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshmm42-collab\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshmm42-collab\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=santoshmm42-collab\&theme=tokyonight\&no-frame=true\&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=santoshmm42-collab\&theme=tokyonight\&no-frame=true)
 
 ---
 
 ## ✨ Developer Quote
 
-> "Success is the sum of small efforts repeated day in and day out."
+> "Consistency beats talent when talent doesn't work consistently."
 
 ---
 
-## 📈 Profile Visitors
+### 👨‍💻 Thanks for visiting my profile!
 
-![](https://visitcount.itsvg.in/api?id=santoshmm42-collab\&icon=5\&color=6)
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Keep Learning, Keep Building, Keep Growing."* 🚀
-
-</div>
+⭐ Feel free to explore my repositories and connect with me.
