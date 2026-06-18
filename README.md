@@ -1,6 +1,10 @@
 # Hi 👋, I'm Santosh M Madivalar
 
-### 🎓 Information Science & Engineering Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
+<h3 align="center">🎓 Information Science & Engineering Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+in+Progress;Problem+Solver+%7C+Tech+Explorer;Always+Learning+New+Things" />
+</p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -8,78 +12,135 @@
 
 I'm **Santosh M Madivalar**, currently pursuing a **Bachelor of Engineering in Information Science and Engineering**.
 
-I am passionate about **Software Development, Web Technologies, Data Analytics, and Cloud Computing**. I enjoy building projects, solving coding challenges, and continuously exploring new technologies that help me grow as a developer.
+Passionate about building software solutions and exploring modern technologies. I enjoy developing web applications, solving coding challenges, and continuously enhancing my technical skills.
 
 * 🌱 Currently learning **Full Stack Development**
 * 💻 Practicing **Data Structures & Algorithms**
-* 🔥 Solving problems on LeetCode and CodeChef
-* ☁️ Exploring Cloud Technologies
-* 🎯 Goal: Build innovative software solutions and establish a successful career in the IT industry
+* 🔥 Solving problems on **LeetCode**
+* ☁️ Exploring **Cloud Computing**
+* 🚀 Building real-world projects with modern technologies
+* 🎯 Goal: Become a skilled Software Engineer and contribute to impactful products
 
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-
----
+<br>
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](YOUR_YOUTUBE_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="left">
+<a href="mailto:Santoshmm42@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/santosh-m-m-855652290">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/s_antosh_m_m">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/santoshmm/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshmm42-collab\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=santoshmm42-collab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=santoshmm42-collab\&theme=tokyonight)
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshmm42-collab&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshmm42-collab\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santoshmm42-collab&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=santoshmm42-collab\&theme=tokyonight\&no-frame=true)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=santoshmm42-collab&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 💡 LeetCode Statistics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/santoshmm?theme=dark&font=Poppins&ext=contest"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshmm42-collab&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## ✨ Developer Quote
 
-> "Consistency beats talent when talent doesn't work consistently."
+<p align="center">
+<i>"Consistency beats talent when talent doesn't work consistently."</i>
+</p>
 
 ---
 
-### 👨‍💻 Thanks for visiting my profile!
+## 🎯 Current Focus
 
-⭐ Feel free to explore my repositories and connect with me.
+* 🔭 Working on Full Stack Projects
+* 🌱 Learning React & Node.js
+* ☁️ Exploring Cloud Platforms
+* 🧠 Improving DSA Skills
+* 🚀 Preparing for Software Engineering Opportunities
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santoshmm42-collab&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+Feel free to explore my repositories, contribute to projects, and connect with me.
+</p>
