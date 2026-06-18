@@ -92,25 +92,33 @@ Passionate about building software solutions and exploring modern technologies. 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=santoshmm42-collab&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshmm42-collab&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Santoshmmadivalar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshmmadivalar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=santoshmm42-collab&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Santoshmmadivalar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=santoshmm42-collab&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Santoshmmadivalar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santoshmmadivalar&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
 
 ---
 
