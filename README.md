@@ -156,12 +156,43 @@ Passionate about building software solutions and exploring modern technologies. 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santoshmm42-collab&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<div align="center">
 
-<p align="center">
-Feel free to explore my repositories, contribute to projects, and connect with me.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting+My+Profile!;Building+The+Future+With+Code+%F0%9F%9A%80;Always+Learning+%E2%9C%A8+Always+Growing+%F0%9F%8C%B1" />
+
+<br><br>
+
+### 💫 Turning Ideas Into Reality Through Technology
+
+> *"Every great application starts with a simple idea and the courage to build it."*
+
+<br>
+
+<table>
+<tr>
+<td align="center">🚀<br><b>Developer</b></td>
+<td align="center">💡<br><b>Problem Solver</b></td>
+<td align="center">🌱<br><b>Lifelong Learner</b></td>
+<td align="center">⭐<br><b>Open Source Enthusiast</b></td>
+</tr>
+</table>
+
+<br>
+
+### 🤝 Let's Connect and Build Something Amazing Together
+
+📧 **Email:** [Santoshmm42@gmail.com](mailto:Santoshmm42@gmail.com)
+
+💼 **Open to Internships • Collaborations • Learning Opportunities**
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24,30&section=footer"/>
+
+</div>
