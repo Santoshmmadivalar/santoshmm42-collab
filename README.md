@@ -25,23 +25,36 @@ Passionate about building software solutions and exploring modern technologies. 
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="mailto:Santoshmm42@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="mailto:Santoshmm42@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-SantoshMM42-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/santosh-m-m-855652290">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/santosh-m-m-855652290">
+    <img src="https://img.shields.io/badge/LinkedIn-Santosh%20M%20Madivalar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.instagram.com/s_antosh_m_m">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  <a href="https://www.instagram.com/s_antosh_m_m">
+    <img src="https://img.shields.io/badge/Instagram-@s__antosh__m__m-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-<a href="https://leetcode.com/u/santoshmm/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+  <a href="https://leetcode.com/u/santoshmm/">
+    <img src="https://img.shields.io/badge/LeetCode-santoshmm-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
+
+<p align="center">
+  💬 Open to collaboration on Web Development, Full-Stack Projects, and Software Engineering opportunities.
+</p>
+
+<p align="center">
+  <a href="mailto:Santoshmm42@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-Contact%20Me-success?style=flat-square" />
+  </a>
+</p>
+
+---
+
 
 ---
 
