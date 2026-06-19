@@ -155,7 +155,7 @@ Passionate about building software solutions and exploring modern technologies. 
 * 🚀 Preparing for Software Engineering Opportunities
 
 ---
-
+                                                                     💖 Thank you
 ---
 
 <div align="center">
