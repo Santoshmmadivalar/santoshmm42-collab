@@ -115,12 +115,12 @@ Passionate about building software solutions and exploring modern technologies. 
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santoshmmadivalar&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santoshmmadivalar&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
 
 ---
 
