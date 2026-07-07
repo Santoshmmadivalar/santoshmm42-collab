@@ -3,6 +3,7 @@
 <h3 align="center">🎓 Information Science & Engineering Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+in+Progress;Problem+Solver+%7C+Tech+Explorer;Always+Learning+New+Things" />
 </p>
 
@@ -59,6 +60,7 @@ Passionate about building software solutions and exploring modern technologies. 
 ---
 
 ## 💻 Tech Stack
+
 
 ### Programming Languages
 
